@@ -5919,7 +5919,6 @@ dependencies = [
  "chrono",
  "clap",
  "crc32fast",
- "ctor",
  "futures",
  "futures-util",
  "http",
@@ -6004,7 +6003,6 @@ dependencies = [
  "chrono",
  "clap",
  "criterion",
- "ctor",
  "dirs",
  "gearhash",
  "http",
@@ -6071,7 +6069,6 @@ dependencies = [
  "tracing-appender",
  "tracing-subscriber",
  "tracing-test",
- "web-time",
  "whoami",
  "winapi",
 ]
